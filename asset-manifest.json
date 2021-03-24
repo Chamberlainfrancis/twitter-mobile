@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/twitter-mobile/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/twitter-mobile/static/js/main.2f1c2d48.chunk.js",
-    "main.js.map": "/twitter-mobile/static/js/main.2f1c2d48.chunk.js.map",
-    "runtime-main.js": "/twitter-mobile/static/js/runtime-main.f444ad21.js",
-    "runtime-main.js.map": "/twitter-mobile/static/js/runtime-main.f444ad21.js.map",
-    "static/js/2.5092be6b.chunk.js": "/twitter-mobile/static/js/2.5092be6b.chunk.js",
-    "static/js/2.5092be6b.chunk.js.map": "/twitter-mobile/static/js/2.5092be6b.chunk.js.map",
-    "static/js/3.bdb36a20.chunk.js": "/twitter-mobile/static/js/3.bdb36a20.chunk.js",
-    "static/js/3.bdb36a20.chunk.js.map": "/twitter-mobile/static/js/3.bdb36a20.chunk.js.map",
+    "main.css": "/twitter-mobile/static/css/main.e70e2d72.chunk.css",
+    "main.js": "/twitter-mobile/static/js/main.5b139a55.chunk.js",
+    "main.js.map": "/twitter-mobile/static/js/main.5b139a55.chunk.js.map",
+    "runtime-main.js": "/twitter-mobile/static/js/runtime-main.6b80406f.js",
+    "runtime-main.js.map": "/twitter-mobile/static/js/runtime-main.6b80406f.js.map",
+    "static/js/2.b92010ab.chunk.js": "/twitter-mobile/static/js/2.b92010ab.chunk.js",
+    "static/js/2.b92010ab.chunk.js.map": "/twitter-mobile/static/js/2.b92010ab.chunk.js.map",
+    "static/js/3.6251cc42.chunk.js": "/twitter-mobile/static/js/3.6251cc42.chunk.js",
+    "static/js/3.6251cc42.chunk.js.map": "/twitter-mobile/static/js/3.6251cc42.chunk.js.map",
     "index.html": "/twitter-mobile/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/twitter-mobile/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.5092be6b.chunk.js.LICENSE.txt": "/twitter-mobile/static/js/2.5092be6b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/twitter-mobile/static/media/logo.6ce24c58.svg"
+    "static/css/main.e70e2d72.chunk.css.map": "/twitter-mobile/static/css/main.e70e2d72.chunk.css.map",
+    "static/js/2.b92010ab.chunk.js.LICENSE.txt": "/twitter-mobile/static/js/2.b92010ab.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.cb6c110e.png": "/twitter-mobile/static/media/twitter-logo.cb6c110e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f444ad21.js",
-    "static/js/2.5092be6b.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.2f1c2d48.chunk.js"
+    "static/js/runtime-main.6b80406f.js",
+    "static/js/2.b92010ab.chunk.js",
+    "static/css/main.e70e2d72.chunk.css",
+    "static/js/main.5b139a55.chunk.js"
   ]
 }
