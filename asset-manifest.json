@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/twitter-mobile/static/css/main.9937ed08.chunk.css",
-    "main.js": "/twitter-mobile/static/js/main.f225e6c5.chunk.js",
-    "main.js.map": "/twitter-mobile/static/js/main.f225e6c5.chunk.js.map",
-    "runtime-main.js": "/twitter-mobile/static/js/runtime-main.27506522.js",
-    "runtime-main.js.map": "/twitter-mobile/static/js/runtime-main.27506522.js.map",
-    "static/js/2.7bac342e.chunk.js": "/twitter-mobile/static/js/2.7bac342e.chunk.js",
-    "static/js/2.7bac342e.chunk.js.map": "/twitter-mobile/static/js/2.7bac342e.chunk.js.map",
-    "static/js/3.dd20902f.chunk.js": "/twitter-mobile/static/js/3.dd20902f.chunk.js",
-    "static/js/3.dd20902f.chunk.js.map": "/twitter-mobile/static/js/3.dd20902f.chunk.js.map",
+    "main.css": "/twitter-mobile/static/css/main.433b99f1.chunk.css",
+    "main.js": "/twitter-mobile/static/js/main.fa9884dc.chunk.js",
+    "main.js.map": "/twitter-mobile/static/js/main.fa9884dc.chunk.js.map",
+    "runtime-main.js": "/twitter-mobile/static/js/runtime-main.36177178.js",
+    "runtime-main.js.map": "/twitter-mobile/static/js/runtime-main.36177178.js.map",
+    "static/js/2.de40ad5c.chunk.js": "/twitter-mobile/static/js/2.de40ad5c.chunk.js",
+    "static/js/2.de40ad5c.chunk.js.map": "/twitter-mobile/static/js/2.de40ad5c.chunk.js.map",
+    "static/js/3.d2e97f30.chunk.js": "/twitter-mobile/static/js/3.d2e97f30.chunk.js",
+    "static/js/3.d2e97f30.chunk.js.map": "/twitter-mobile/static/js/3.d2e97f30.chunk.js.map",
     "index.html": "/twitter-mobile/index.html",
-    "static/css/main.9937ed08.chunk.css.map": "/twitter-mobile/static/css/main.9937ed08.chunk.css.map",
-    "static/js/2.7bac342e.chunk.js.LICENSE.txt": "/twitter-mobile/static/js/2.7bac342e.chunk.js.LICENSE.txt",
+    "static/css/main.433b99f1.chunk.css.map": "/twitter-mobile/static/css/main.433b99f1.chunk.css.map",
+    "static/js/2.de40ad5c.chunk.js.LICENSE.txt": "/twitter-mobile/static/js/2.de40ad5c.chunk.js.LICENSE.txt",
     "static/media/avatar-1.64716d68.jpg": "/twitter-mobile/static/media/avatar-1.64716d68.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27506522.js",
-    "static/js/2.7bac342e.chunk.js",
-    "static/css/main.9937ed08.chunk.css",
-    "static/js/main.f225e6c5.chunk.js"
+    "static/js/runtime-main.36177178.js",
+    "static/js/2.de40ad5c.chunk.js",
+    "static/css/main.433b99f1.chunk.css",
+    "static/js/main.fa9884dc.chunk.js"
   ]
 }
